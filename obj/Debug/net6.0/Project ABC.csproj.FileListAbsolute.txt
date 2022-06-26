@@ -1,0 +1,84 @@
+C:\Users\prash\Project ABC\obj\Debug\net6.0\Project ABC.csproj.AssemblyReference.cache
+C:\Users\prash\Project ABC\obj\Debug\net6.0\Project ABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prash\Project ABC\obj\Debug\net6.0\Project ABC.AssemblyInfoInputs.cache
+C:\Users\prash\Project ABC\obj\Debug\net6.0\Project ABC.AssemblyInfo.cs
+C:\Users\prash\Project ABC\obj\Debug\net6.0\Project ABC.csproj.CoreCompileInputs.cache
+C:\Users\prash\Project ABC\obj\Debug\net6.0\Project ABC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\prash\Project ABC\obj\Debug\net6.0\Project ABC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prash\Project ABC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\prash\Project ABC\bin\Debug\net6.0\appsettings.json
+C:\Users\prash\Project ABC\bin\Debug\net6.0\Project ABC.exe
+C:\Users\prash\Project ABC\bin\Debug\net6.0\Project ABC.deps.json
+C:\Users\prash\Project ABC\bin\Debug\net6.0\Project ABC.runtimeconfig.json
+C:\Users\prash\Project ABC\bin\Debug\net6.0\Project ABC.dll
+C:\Users\prash\Project ABC\bin\Debug\net6.0\Project ABC.pdb
+C:\Users\prash\Project ABC\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\prash\Project ABC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\prash\Project ABC\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\prash\Project ABC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\prash\Project ABC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\prash\Project ABC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\prash\Project ABC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\prash\Project ABC\obj\Debug\net6.0\scopedcss\bundle\Project ABC.styles.css
+C:\Users\prash\Project ABC\obj\Debug\net6.0\Project ABC.csproj.CopyComplete
+C:\Users\prash\Project ABC\obj\Debug\net6.0\Project ABC.dll
+C:\Users\prash\Project ABC\obj\Debug\net6.0\refint\Project ABC.dll
+C:\Users\prash\Project ABC\obj\Debug\net6.0\Project ABC.pdb
+C:\Users\prash\Project ABC\obj\Debug\net6.0\Project ABC.genruntimeconfig.cache
+C:\Users\prash\Project ABC\obj\Debug\net6.0\ref\Project ABC.dll
+C:\Users\LENOVO\Downloads\Project ABC\obj\Debug\net6.0\Project ABC.dll
+C:\Users\LENOVO\Downloads\Project ABC\obj\Debug\net6.0\refint\Project ABC.dll
+C:\Users\LENOVO\Downloads\Project ABC\obj\Debug\net6.0\Project ABC.pdb
+C:\Users\LENOVO\Downloads\Project ABC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO\Downloads\Project ABC\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO\Downloads\Project ABC\bin\Debug\net6.0\Project ABC.exe
+C:\Users\LENOVO\Downloads\Project ABC\bin\Debug\net6.0\Project ABC.deps.json
+C:\Users\LENOVO\Downloads\Project ABC\bin\Debug\net6.0\Project ABC.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Project ABC\bin\Debug\net6.0\Project ABC.dll
+C:\Users\LENOVO\Downloads\Project ABC\bin\Debug\net6.0\Project ABC.pdb
+C:\Users\LENOVO\Downloads\Project ABC\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO\Downloads\Project ABC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LENOVO\Downloads\Project ABC\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\Downloads\Project ABC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO\Downloads\Project ABC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO\Downloads\Project ABC\obj\Debug\net6.0\Project ABC.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Project ABC\obj\Debug\net6.0\Project ABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Project ABC\obj\Debug\net6.0\Project ABC.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Project ABC\obj\Debug\net6.0\Project ABC.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Project ABC\obj\Debug\net6.0\Project ABC.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Project ABC\obj\Debug\net6.0\Project ABC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Project ABC\obj\Debug\net6.0\Project ABC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Downloads\Project ABC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO\Downloads\Project ABC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO\Downloads\Project ABC\obj\Debug\net6.0\scopedcss\bundle\Project ABC.styles.css
+C:\Users\LENOVO\Downloads\Project ABC\obj\Debug\net6.0\Project ABC.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\Project ABC\obj\Debug\net6.0\Project ABC.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Project ABC\obj\Debug\net6.0\ref\Project ABC.dll
+C:\Users\LENOVO\Desktop\Practice Check\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO\Desktop\Practice Check\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO\Desktop\Practice Check\bin\Debug\net6.0\Project ABC.exe
+C:\Users\LENOVO\Desktop\Practice Check\bin\Debug\net6.0\Project ABC.deps.json
+C:\Users\LENOVO\Desktop\Practice Check\bin\Debug\net6.0\Project ABC.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Practice Check\bin\Debug\net6.0\Project ABC.dll
+C:\Users\LENOVO\Desktop\Practice Check\bin\Debug\net6.0\Project ABC.pdb
+C:\Users\LENOVO\Desktop\Practice Check\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO\Desktop\Practice Check\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LENOVO\Desktop\Practice Check\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\Desktop\Practice Check\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO\Desktop\Practice Check\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO\Desktop\Practice Check\obj\Debug\net6.0\Project ABC.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Practice Check\obj\Debug\net6.0\Project ABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Practice Check\obj\Debug\net6.0\Project ABC.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Practice Check\obj\Debug\net6.0\Project ABC.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Practice Check\obj\Debug\net6.0\Project ABC.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Practice Check\obj\Debug\net6.0\Project ABC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Practice Check\obj\Debug\net6.0\Project ABC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\Practice Check\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO\Desktop\Practice Check\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO\Desktop\Practice Check\obj\Debug\net6.0\scopedcss\bundle\Project ABC.styles.css
+C:\Users\LENOVO\Desktop\Practice Check\obj\Debug\net6.0\Project ABC.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Practice Check\obj\Debug\net6.0\Project ABC.dll
+C:\Users\LENOVO\Desktop\Practice Check\obj\Debug\net6.0\refint\Project ABC.dll
+C:\Users\LENOVO\Desktop\Practice Check\obj\Debug\net6.0\Project ABC.pdb
+C:\Users\LENOVO\Desktop\Practice Check\obj\Debug\net6.0\Project ABC.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Practice Check\obj\Debug\net6.0\ref\Project ABC.dll

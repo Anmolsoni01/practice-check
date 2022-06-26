@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\Controllers",
+    "\\Models",
+    "\\obj",
+    "\\obj\\Container",
+    "\\obj\\Debug",
+    "\\obj\\Debug\\net6.0",
+    "\\Properties"
+  ],
+  "SelectedNode": "\\Controllers\\OrderController.cs",
+  "PreviewInSolutionExplorer": false
+}
